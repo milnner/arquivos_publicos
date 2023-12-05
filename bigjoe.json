@@ -1,7 +1,7 @@
 {
   "name": "Big Joe",
   "description": "Um fazendeiro rebelde",
-  "image": "ipfs://bafybeidony3twbfbqizbgwzem4ojjointpsyox4hi7xmykmv6v2ewzyaoy/bigjoe.png",
+  "image": "https://bafybeidony3twbfbqizbgwzem4ojjointpsyox4hi7xmykmv6v2ewzyaoy.ipfs.nftstorage.link/",
   "attributes": [{
     "life": "150",
     "attack": "135"
