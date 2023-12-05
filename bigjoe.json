@@ -1,7 +1,7 @@
 {
   "name": "Big Joe",
   "description": "Um fazendeiro rebelde",
-  "image": "https://github.com/milnner/arquivos_publicos/blob/main/bigjoe.png",
+  "image": "ipfs://bafybeidony3twbfbqizbgwzem4ojjointpsyox4hi7xmykmv6v2ewzyaoy/bigjoe.png",
   "attributes": [{
     "life": "150",
     "attack": "135"
